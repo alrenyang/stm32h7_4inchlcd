@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "button.h": "c",
+        "st7701.h": "c",
+        "hw.h": "c",
+        "led.h": "c",
+        "fs.h": "c",
+        "cli.h": "c",
+        "qbuffer.h": "c",
+        "uart.h": "c",
+        "hw_def.h": "c",
+        "bsp.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}

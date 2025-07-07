@@ -1,0 +1,27 @@
+CMakeFiles/stm32h7_4inchgfx.elf.dir/src/hw/driver/hangul/han.c.obj: \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/hw/driver/hangul/han.c \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/hw/driver/hangul/han.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/stdint.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/machine/_default_types.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/features.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/_newlib_version.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_intsup.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_stdint.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/string.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/_ansi.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/newlib.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/config.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/reent.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/_ansi.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/cdefs.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_types.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/machine/_types.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/lock.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_locale.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/strings.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/string.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/hw/driver/hangul/font_eng.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/hw/driver/hangul/font_han.h

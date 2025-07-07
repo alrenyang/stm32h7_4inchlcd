@@ -1,0 +1,20 @@
+CMakeFiles/stm32h7_4inchgfx.elf.dir/src/lib/FreeRTOS/Source/croutine.c.obj: \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/croutine.c \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/FreeRTOS.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/lib/gcc/arm-none-eabi/13.3.1/include/stddef.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/stdint.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/machine/_default_types.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/features.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/_newlib_version.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_intsup.h \
+ /opt/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/arm-none-eabi/include/sys/_stdint.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/bsp/rtos/FreeRTOSConfig.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/projdefs.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/portable.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/deprecated_definitions.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/portmacro.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/mpu_wrappers.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/task.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/list.h \
+ /Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/src/lib/FreeRTOS/Source/include/croutine.h

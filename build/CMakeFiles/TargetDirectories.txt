@@ -1,0 +1,3 @@
+/Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/build/CMakeFiles/stm32h7_4inchgfx.elf.dir
+/Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/build/CMakeFiles/edit_cache.dir
+/Users/alrenm3/work/IB_Project/CBT-100/firmware/4inch_gfx/stm32h7_4inch_gfx/build/CMakeFiles/rebuild_cache.dir

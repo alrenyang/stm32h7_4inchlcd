@@ -1,0 +1,35 @@
+build/MINGW32_NT-6.2/generated/fonts/src/ApplicationFontProvider.o: \
+ generated/fonts/src/ApplicationFontProvider.cpp \
+ generated/fonts/include/fonts/ApplicationFontProvider.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/FontManager.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/Font.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/Unicode.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/hal/Types.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/hal/Config.hpp \
+ generated/fonts/include/fonts/GeneratedFont.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/ConstFont.hpp \
+ generated/texts/include/texts/TypedTextDatabase.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/TypedText.hpp \
+ ../../lib/touchgfx/framework/include/touchgfx/Texts.hpp
+
+generated/fonts/include/fonts/ApplicationFontProvider.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/FontManager.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/Font.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/Unicode.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/hal/Types.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/hal/Config.hpp:
+
+generated/fonts/include/fonts/GeneratedFont.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/ConstFont.hpp:
+
+generated/texts/include/texts/TypedTextDatabase.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/TypedText.hpp:
+
+../../lib/touchgfx/framework/include/touchgfx/Texts.hpp:
